@@ -1,1 +1,1 @@
-web: node electron/index.cjs
+web: node /electron/index.cjs
