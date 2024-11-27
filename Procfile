@@ -1,0 +1,1 @@
+web: node electron/index.cjs
